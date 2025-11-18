@@ -1,7 +1,7 @@
 # m6APrediction
 
 ## Overview
-m6APrediction is an R package designed to predict m6A methylation sites using a Random Forest model.  
+m6APredikage designed to predict m6A methylation sites using a Random Forest model.  
 
 The package provides:
 - Functions to encode DNA sequences into machine-learning–ready numerical features  
